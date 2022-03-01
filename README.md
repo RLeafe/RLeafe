@@ -4,8 +4,7 @@ I'm fairly new to this Github thing but okay at coding. I'm still learning and p
 
 Here's what I do:
 
-*Please note that this list is what I can do and how I feel about them.
-You may have a different stance of where my level is. :)*
+*Please note that this list is purley how comfortable I feel about each thing. You may have a different stance of where my level is. :)*
 
 Engines:
 - Unreal Engine (Blueprints & C++) <- Fairly Confident | Actively Learning
