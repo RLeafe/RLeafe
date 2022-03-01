@@ -7,17 +7,17 @@ Here's what I do:
 *Please note that this list is purley how comfortable I feel about each thing. You may have a different stance of where my level is. :)*
 
 Engines:
-- Unreal Engine (Blueprints & C++) <- Fairly Confident | Actively Learning
-- Unity <- Strongest | Actively Learning
+- Unreal Engine (Blueprints & C++) <- Mildly Comfortable | Actively Learning
+- Unity <-  Very Comfortable | Actively Learning - Strongest
 
 Langs:
-- Java <- Strongest | Still Learning but not priority
-- C# <- Fairly Confident | Actively Learning
-- C++ <- Fairly Confident | Actively Learning
-- HTML / CSS <- Very Confident, doesn't mean I'm good. | Actively Learning / Slowly Learning (Mainly when I update my portfolio).
+- Java <- Very Comfortable | Still Learning but not priority - Strongest
+- C# <- Fairly Comfortable | Actively Learning
+- C++ <- Mildly Comfortable | Actively Learning
+- HTML / CSS <- Very Comfortable, doesn't mean I'm good. | Actively Learning / Slowly Learning (Mainly when I update my portfolio).
 
 Script:
-- JS <- Fairly Confident | Still Learning
+- JS <- Fairly Comfortable | Still Learning
 - TS <- Still learning to walk | Slowly Learning
 
 DB:
