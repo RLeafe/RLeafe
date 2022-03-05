@@ -1,4 +1,4 @@
-Hi nosey stranger,
+Hi stranger,
 
 I'm fairly new to this Github thing but okay at coding. I'm still learning and probably always will be! Thanks for taking an interest in my collection of rubble.
 
