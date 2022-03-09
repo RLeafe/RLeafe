@@ -46,13 +46,13 @@ DB:
 ---
 <p align="center" dir="auto">
   <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" style="max-width: 100%;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&date_format=j%20M%5B%20Y%5D" style="max-width: 100%;">
   </a>
 </p>
 
 <p align="center" dir="auto">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLeafe&layout=compact&hide_border=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLeafe&layout=compact&theme=dark">
   </a>
 </p>
   
