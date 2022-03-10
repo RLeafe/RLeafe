@@ -57,7 +57,7 @@ DB:
 ---
 <p align="center" dir="auto">
   <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&date_format=j%20M%5B%20Y%5D" title="streak stats" alt="streak stats" width="42%">&nbsp;
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&date_format=j%20M%5B%20Y%5D" title="streak stats" alt="streak stats" width="55%">&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLeafe&layout=compact&theme=dark" title="stats" alt="stats">&nbsp;
   </a>
 </p>
