@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">hi :wave:</h1>
+<h1 align="center" dir="auto">hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/leafe/" target="_blank" rel="nofollow">
@@ -43,7 +43,7 @@ DB:
 - MongoDB <- Can get it to do what I need | Slowly Learning
 - SQL / MySQL <- Can get it to do what I need but would rather not. | Slowly Learning but not Priority
 
-<h3 align="center" dir="auto">Language & Tools</h3>
+<h3 align="center" dir="auto">:hammer_and_wrench: Language & Tools :hammer_and_wrench:</h3>
 
 <p align="center" dir="auto">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
