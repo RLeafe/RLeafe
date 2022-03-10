@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">hi stranger</h1>
+<h1 align="center" dir="auto">hi :wave:</h1>
 
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/leafe/" target="_blank" rel="nofollow">
