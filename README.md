@@ -43,16 +43,28 @@ DB:
 - MongoDB <- Can get it to do what I need | Slowly Learning
 - SQL / MySQL <- Can get it to do what I need but would rather not. | Slowly Learning but not Priority
 
+<h3 align="center" dir="auto">Languages</h3>
+
+<p align="center" dir="auto">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+</p>
+
 ---
 <p align="center" dir="auto">
   <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&date_format=j%20M%5B%20Y%5D" style="max-width: 100%;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RLeafe&theme=dark&date_format=j%20M%5B%20Y%5D" title="streak stats" alt="streak stats" width="42%">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLeafe&layout=compact&theme=dark" title="stats" alt="stats">&nbsp;
   </a>
 </p>
 
 <p align="center" dir="auto">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLeafe&layout=compact&theme=dark">
+    
   </a>
 </p>
   
