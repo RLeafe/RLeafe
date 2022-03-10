@@ -43,7 +43,7 @@ DB:
 - MongoDB <- Can get it to do what I need | Slowly Learning
 - SQL / MySQL <- Can get it to do what I need but would rather not. | Slowly Learning but not Priority
 
-<h3 align="center" dir="auto">Languages</h3>
+<h3 align="center" dir="auto">Language & Tools</h3>
 
 <p align="center" dir="auto">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
