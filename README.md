@@ -27,7 +27,7 @@ Here's what I do:
 
 Engines:
 - Unreal Engine (Blueprints & C++) <- Mildly Comfortable | Actively Learning
-- Unity <-  Very Comfortable | Actively Learning - Strongest
+- Unity <-  Very Comfortable | Actively Learning
 
 Langs:
 - Java <- Very Comfortable | Still Learning but not priority - Strongest
