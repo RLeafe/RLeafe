@@ -32,7 +32,7 @@ Engines:
 Langs:
 - Java <- Very Comfortable | Still Learning but not priority - Strongest
 - C# <- Fairly Comfortable | Actively Learning
-- C++ <- Mildly Comfortable | Actively Learning
+- C++ <- Slightly Comfortable | Actively Learning
 - HTML / CSS <- Very Comfortable, doesn't mean I'm good. | Actively Learning / Slowly Learning (Mainly when I update my portfolio).
 
 Script:
