@@ -26,22 +26,22 @@ Here's what I do:
 *Please note that this list is purley how comfortable I feel about each thing. You may have a different stance of where my level is. :)*
 
 Engines:
-- Unreal Engine (Blueprints & C++) <- Mildly Comfortable | Actively Learning
-- Unity <-  Very Comfortable | Actively Learning
+- Unreal Engine (Blueprints & C++) <- Mildly Comfortable
+- Unity <-  A little shite | Strongest
 
 Langs:
-- Java <- Very Comfortable | Still Learning but not priority - Strongest
-- C# <- Fairly Comfortable | Actively Learning
-- C++ <- Slightly Comfortable | Actively Learning
-- HTML / CSS <- Very Comfortable, doesn't mean I'm good. | Actively Learning / Slowly Learning (Mainly when I update my portfolio).
+- Java <- Less Shite | Strongest
+- C# <- A little shite | Actively Learning
+- C++ <- Proper Shite
+- HTML / CSS <- Very Comfortable, doesn't mean I'm good - still shite.
 
 Script:
 - JS <- Fairly Comfortable | Still Learning
-- TS <- Still learning to walk | Slowly Learning
+- TS <- Still learning to walk | Slowly Learning - JK, i'm shit
 
 DB:
-- MongoDB <- Can get it to do what I need | Slowly Learning
-- SQL / MySQL <- Can get it to do what I need but would rather not. | Slowly Learning but not Priority
+- MongoDB <- Can get it to do what I need
+- SQL / MySQL <- Can get it to do what I need but would rather not.
 
 <h3 align="center" dir="auto">:hammer_and_wrench: Language & Tools :hammer_and_wrench:</h3>
 
