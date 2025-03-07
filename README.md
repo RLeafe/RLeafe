@@ -6,13 +6,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
   
-<a href="https://linktr.ee/fufie" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;">
-</a>
-  
-<a href="https://twitter.com/fufiedev" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
-</a>
 </p>
 
 <p align="center" dir="auto">
